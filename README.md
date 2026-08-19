@@ -1,45 +1,49 @@
 # Supply Chain Analytical
 
-A supply chain analytics project focused on analyzing operational performance, costs, services, and profitability using Microsoft Excel.
+> Excel-based supply chain analytics project focused on operational performance, cost, profitability, service performance, and KPI insights.
 
-## Project Overview
+## Overview
 
-This project analyzes shipment and operational data to identify cost drivers, service performance, and profitability across different logistics categories.
+This project transforms shipment and operational data into actionable insights for supply chain decision-making. The analysis evaluates revenue, cost structure, profitability, shipment volume, service performance, and KPIs across logistics categories.
 
 ## Objectives
 
 - Analyze revenue and operational costs
-- Calculate total cost and profit
-- Monitor KPI performance
-- Compare services and shipment categories
-- Build interactive Excel dashboards for decision-making
+- Calculate total cost, profit, and profit margin
+- Monitor KPI and service performance
+- Compare logistics services and shipment categories
+- Identify cost and performance drivers
+- Build an interactive Excel dashboard for decision-making
 
-## Tools
+## Key Analysis
+
+- Revenue & Cost Analysis
+- Direct Cost & Other Cost Analysis
+- Total Cost & Profitability
+- Profit Margin
+- Shipment Volume
+- Service Performance
+- KPI Monitoring
+- Service & Category Comparison
+
+## Tools & Techniques
 
 - Microsoft Excel
-- Pivot Tables
 - Excel Formulas
+- Pivot Tables
 - Data Analysis
 - KPI Monitoring
 - Dashboard Development
 
-## Key Analysis
+## Deliverable
 
-- Revenue Analysis
-- Direct Cost Analysis
-- Other Cost Analysis
-- Total Cost
-- Profit & Profit Margin
-- Shipment Volume
-- Service Performance
-- KPI Analysis
+An interactive Excel dashboard designed to present operational and financial insights clearly and support data-driven supply chain decisions.
 
-## Project Output
+## Project File
 
-An interactive Excel dashboard presenting key supply chain and financial insights in a clear visual format.
+[Download the Excel Dashboard](./JUM_Supply_Chain_Dashboard11.xlsx)
 
 ## Author
 
-**Jumanah AL Jafshar**
-
-Supply Chain Management | Logistics | Procurement | Data Analysis
+**Jumanah AL Jafshar**  
+Supply Chain Management | Procurement | Logistics | Data Analysis
