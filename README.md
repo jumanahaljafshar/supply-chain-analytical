@@ -39,9 +39,11 @@ This project transforms shipment and operational data into actionable insights f
 
 An interactive Excel dashboard designed to present operational and financial insights clearly and support data-driven supply chain decisions.
 
-## Project File
+## Project Files
 
-[Download the Excel Dashboard](./JUM_Supply_Chain_Dashboard11.xlsx)
+[Download the Excel Dashboard](https://github.com/jumanahaljafshar/supply-chain-analytical/blob/main/JUM_Supply_Chain_Dashboard11.xlsx)
+
+[View the Project Presentation](https://github.com/jumanahaljafshar/supply-chain-analytical/blob/main/JUM_Supply_Chain_Analytical_Professional_WITH_REFERENCES.pptx)
 
 ## Author
 
